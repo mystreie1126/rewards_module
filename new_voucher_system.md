@@ -1,23 +1,17 @@
 # New Reward System in all Funtech shops #
 
-### We are implementing a new reward system for all the Funtech shop products which are also can be found on the Website(www.funtech.ie). ###
-### The system is basicly about we given 10% of the product's price as reward/voucher based on customer's each online order. ###
+###  :speaker: We are implementing a new reward system which is simply give 10% of the customer purchase as reward/voucher. ###
 
-:coffee:  **The purpose of this system is to educated and making them have the habbits of self placing order online with spending their own rewards points. In order to attract more online user.**
-
-<hr>
-
-<h2>Please Note: :speaker:</h2>
-<h3>We are not gonna use the previous 30 or 20 euro voucher for all pre-owned phones from now, all the label on phones should be changed.</h3>
+### The purpose of this rewarding system is to enable the customer to use the voucher and place the order online by themselves through our website. ###
 
 <hr>
 
-<h2>The Rules of getting reward points: :pencil2:</h2>
+<h2>Please Note: :pencil2:</h2>
 
-- **Customer has to register or login on our website first, _No register = No rewards_**
-- **Rewards will be generated regarding to the customer’s online order, _In shop order = No rewards_**
-- **Rewards will be generated after the customer succsessfully make the payment, _if the order is refunded or cancelled = no rewards_**
-- **Rewards will be generated once after paid for their order, _No paid = no rewards_**
+- **Customer has to register or login on our website first, _No register or No email account = No rewards/voucher given_**
+- **Vouchers are only valid used on placing the online order at funtech.ie(Everything we have in the shop can be found on the website)**
+- **Rewards will be generated after the customer successfully make the payment, _if the product/item is refunded or cancelled, rewards will be cancelled automatically_**
+
 
 <hr>
 
