@@ -29,5 +29,3 @@
   <li><h4>Customer can simply add the voucher code to their cart when proceeding the checkout.</li></h4>
   <img src="https://github.com/JianNCI/rewards_module/blob/master/reward_screenshot/adding_to_cart_1.png">
 </ul>
-
-<h1>Please notice the voucher code is not accumlative, one order only can have one voucher code!!!!!</h1>
