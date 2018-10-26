@@ -29,6 +29,6 @@ status id equals to 4,which means re-open the entry</p>
 <p>First we should spot the <b>parts_usage</b> table with staff_id = 115(which the staff_id can be found in <b>staff</b> table)<p>
 <p>Then find the rows with column value: <b><i>tracking</i></b> = '<b><i>FT02261018PY</i></b>'
 
-<img src="https://github.com/JianNCI/rewards_module/blob/master/reward_screenshot/parts_usage.png">
+<img src="https://github.com/JianNCI/rewards_module/blob/master/reward_screenshot/parts_usage.png"/>
 
 <p>:speaker: Please note: We can simply delete that rows which means removed the parts usage from that repair, but this will leave 1 number under the pending column from the dashboard. So we need to went to <b>stock</b> table to find the stock id with issue <b><i>FT02261018PY</i></b> before we delete that row from the <b>parts_usage</b> table
