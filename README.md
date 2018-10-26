@@ -21,7 +21,7 @@ status id equals to 4,which means re-open the entry</p>
 
 
 
-<h1>2. Removed the parts usage on a single repair/entry <h1>
+<h1>2. Removed the parts usage on a single repair/entry </h1>
   
 <p>:runner:Given issue code: <b><i>FT02261018PY</i></b> with Sohail add the wrong parts to the repair,needs to removed from that repiar and adds the correct one</p>
 
