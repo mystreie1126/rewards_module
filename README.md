@@ -5,7 +5,7 @@
 
 <img src="https://github.com/JianNCI/rewards_module/blob/master/reward_screenshot/issue_status.png"> 
 
-<p> :speaker: From the track->issue_status table we found there are all the status with its ID, 
+<p> :speaker: From the track-><b>issue_status</b> table we found there are all the status with its ID, 
 so we can know which ID  is represents which issue status, such as ID<b>4</b> represents <b><i>payment accepted and closed</i></b>
 
 <img src="https://github.com/JianNCI/rewards_module/blob/master/reward_screenshot/issue_history.png">
